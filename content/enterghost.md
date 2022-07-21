@@ -3,14 +3,14 @@ title: "Enter Ghost"
 description: "voice, trumpet, bass clarinet, trombone - 6 minutes"
 series: chamber
 year_mark: '2021'
-date: 05-10-2021
+date: 2021-05-11
 ---
 
-voice, trumpet, bass clarinet, trombone - 6 minutes
+{{< violr words="voice, trumpet, bass clarinet, trombone - 6 minutes" >}}
 
 completed summer 2021
 
-#### {{< bluer words="text" >}}
+#### {{< yelr words="text" >}}
 -Enter Ghost- (trombone)\
 Marcellus: "Peace, break thee off; look, where it comes again!" (trumpet)\
 Bernardo: "In the same figure, like the king that's dead." (bass clarinet)\
@@ -30,6 +30,6 @@ Horatio: "Stay! Speak, speak! I charge thee, speak!"\
 
 Originally composed for loadbang, {{< greener words="Enter Ghost" >}} sets an adapted scene from the first act of Hamlet. The performers are cast as the four roles: voice as Horatio, trumpet as Marcellus, bass clarinet as Bernardo, and trombone as the ghost. The 'music' is an extension of the theatrical elements of the text, an extension of physical aspects of acting such as blocking.
 
-#### {{< bluer words="premiere" >}}
+#### {{< yelr words="premiere" >}}
 {{< vimeo 685992266 >}}
 > *loadbang(Jeffery Gavett, Andy Kozar, Adrian Sandi, William Lang)*

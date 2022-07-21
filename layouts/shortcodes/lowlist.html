@@ -1,6 +1,6 @@
 {{ $force := default "force" (.Get "force") }}
-{{ range where .Site.RegularPages.ByDate "Params.series" $force }}
-├── <a href="{{ .RelPermalink }}" id='user'>{{ .Title }}</a> <span id='dir'>[{{ .Page.Params.year_mark }}]</span><br>
-└── <small>{{ .Description }}</small><br>
+{{ range where .Site.RegularPages.ByDate.Reverse "Params.series" $force }}
+&nbsp;&nbsp;&nbsp;&nbsp;├── <a href="{{ .RelPermalink }}" id='user'>{{ .Title }}</a> <span id='dir'>[{{ .Page.Params.year_mark }}]</span><br>
+&nbsp;&nbsp;&nbsp;&nbsp;└── <small style="color:#b58900">{{ .Description }}</small><br>
 <br>
 {{ end }}

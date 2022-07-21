@@ -3,23 +3,23 @@ title: "list of works"
 ---
 
 
-#### large ensemble
+#### └── large ensemble
 
 {{< lowlist force="largeensemble" >}}
 
 
-#### chamber
+#### └── chamber
 
 {{< lowlist force="chamber" >}}
 
-#### solo
+#### └── solo
 
 {{< lowlist force="solo" >}}
 
-#### with computers/electronics/media
+#### └── with computers/electronics/media
 
 {{< lowlist force="withcomp" >}}
 
-#### just computers/electronics/media
+#### └── just computers/electronics/media
 
 {{< lowlist force="justcomp" >}}

@@ -7,8 +7,8 @@ theme = 'hugo-theme-shell'
 [Params]
   description = "Tucker Johnson"
   [Params.Terminal]
-  scheme = "Material"
-  userName = "visitor"
+  scheme = "SolarizedDark"
+  userName = "TuckerJ"
   pcName = "newer.systems"
   workDir = "home"
   profile = "bios/short\\ bio.txt"
@@ -22,8 +22,9 @@ theme = 'hugo-theme-shell'
   contentDelay = 0 # content speed : content in .md file
 
 
-  description = """
-  Currently based in Rochester, New York, Tucker Johnson's
+  description = """### Tucker Johnson, short bio
+
+  Currently based in Rochester, New York, Tucker Johnson’s
   musical practice includes works for soloists, ensembles,
   and electronic media. He seeks to draw connections
   between philosophy, mathematics, and design through his
@@ -31,12 +32,8 @@ theme = 'hugo-theme-shell'
   of experimentation and highly organized systems.
   Experiences reading, hiking, and amateur botanizing can
   be found intertwined in his work, alongside interests in
-  visual art, open-source software, and teaching.
-  """
 
-  # Note: If you want to use a Markdown file, you can use the following
-  # description = "/description.md"
-  # Note: and put the description.md in /content/description.md
+  open-source software and teaching."""
 
   [Params.Tree]
   use = true
@@ -44,6 +41,9 @@ theme = 'hugo-theme-shell'
   files = [
     ["works", "/list_of_works.md"],
     ["about", "/about.md"],
-    ["contact", "/contact.md"],
-    ["github", "/github.md"]
+    ["projects", "/projects.md"],
+    ["collaborative work", "/collaborations,md"],
+    ["gallery", "/gallery.md"],
+    ["purchase", "/purchase.md"],
+    ["contact", "/contact.md"]
   ]
