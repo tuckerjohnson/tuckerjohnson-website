@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Newer Systems</title>
+    <link>http://newer.systems/</link>
+    <description>Recent content on Newer Systems</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="http://newer.systems/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Commonplace Common Tones</title>
+      <link>http://newer.systems/commonplacecommontones/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://newer.systems/commonplacecommontones/</guid>
+      <description>sinfonietta - 6 minutes
+completed Fall 2021
+program notes Commonplace Common Tones explores relationships between overlapping groups, or groups which share elements. These relationships are present as subdivisions of the ensemble, collections of pitches, and rhythmic patterns. The piece contains 3 ‘kinds’ of music. The first is scattered in nature—utilizing varieties of sparse instrumental combinations, the second is chordal, and the third is driving and rhythmic. These are arranged across 6 sections each using a different combination of 2 overlapping pitch collections.</description>
+    </item>
+    
+    <item>
+      <title>Enter Ghost</title>
+      <link>http://newer.systems/enterghost/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://newer.systems/enterghost/</guid>
+      <description>voice, trumpet, bass clarinet, trombone - 6 minutes
+completed summer 2021
+text -Enter Ghost- (trombone)
+Marcellus: &amp;ldquo;Peace, break thee off; look, where it comes again!&amp;rdquo; (trumpet)
+Bernardo: &amp;ldquo;In the same figure, like the king that&amp;rsquo;s dead.&amp;rdquo; (bass clarinet)
+Marcellus: &amp;ldquo;Thou art a scholar; speak to it *Horatio.&amp;rdquo;
+Bernardo: &amp;ldquo;Looks it not like the king? Mark it *Horatio.&amp;rdquo;
+Horatio: &amp;ldquo;Most like: it harrows me with fear and wonder.&amp;rdquo; (voice)
+Bernardo: &amp;ldquo;It would be spoke to.</description>
+    </item>
+    
+    <item>
+      <title>Even the Pieces I Can&#39;t Remember</title>
+      <link>http://newer.systems/eventhepiecesicantremember.md/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://newer.systems/eventhepiecesicantremember.md/</guid>
+      <description>piano, pitched percussion - 6 minutes
+completed Summer 2021
+program notes {{ $image := $image.Fit &amp;ldquo;600x400&amp;rdquo; }}</description>
+    </item>
+    
+    <item>
+      <title>list of works</title>
+      <link>http://newer.systems/list_of_works/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://newer.systems/list_of_works/</guid>
+      <description>large ensemble ├── Commonplace Common Tones [2021]
+└── sinfonietta - 6 minutes
+chamber ├── Enter Ghost [2021]
+└── voice, trumpet, bass clarinet, trombone - 6 minutes
+├── Even the Pieces I Can&amp;#39;t Remember [2021]
+└── piano, pitched percussion - 14 minutes
+├── Moment / Time -Practice [2020]
+└── open ensemble - variable
+solo with computers/electronics/media just computers/electronics/media </description>
+    </item>
+    
+    <item>
+      <title>Moment / Time -Practice</title>
+      <link>http://newer.systems/momenttimepractice/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://newer.systems/momenttimepractice/</guid>
+      <description>open ensemble - variable
+completed Fall 2020
+program notes The foundation for moment / time -Practice are the six phrases: for only a moment, for only a breath, for beyond a breath, for only your mind, for only your body, for beyond you.
+Even when things seem still, they are changing. Imagine for a moment the temporality of plate tectonics or the forming and moving of glaciers. These temporalities are vast compared to our breath, the primary measurement of the moment.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,9 @@
+{{ define "main" }}
+<h2>  </h2>
+<span id='terminal'>
+    {{ $title := .Title}}
+    {{ $title := printf "<B><big id='dir'>%s</big></B>" $title}}
+    {{ $content := printf "<span id='terminal'>%s</span>" .Content }}
+</span>
+    {{ partial "partials/typeActivity.html" (dict "context" . "title" $title "content" $content "titledelay" $.Site.Params.Terminal.titleDelay "contentdelay" $.Site.Params.Terminal.contentDelay )}}
+{{ end }}

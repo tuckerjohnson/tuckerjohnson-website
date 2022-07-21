@@ -1,0 +1,584 @@
+<!DOCTYPE html>
+<html lang="en-us"><head>
+    <title>Enter Ghost</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+    <meta name="description" content="voice, trumpet, bass clarinet, trombone - 6 minutes" />
+    <style>
+@import "https://fonts.googleapis.com/css2?family=Inconsolata&display=swap";:root{--cursor-visibility:hidden}html,body{width:100%;height:100%;overflow:auto;font-family:inconsolata,monospace;font-size:3vmin;line-height:3vmin;font-weight:400}body{margin:0;display:flex;flex-direction:row;justify-content:center;align-items:center}#content{min-width:82vmin;min-height:82vmin}::-webkit-scrollbar{width:10px}::-webkit-scrollbar-track{border-radius:10px;box-shadow:inset 0 0 1px white}::-webkit-scrollbar-thumb{border-radius:10px;box-shadow:0 0 0 1px white}.cursor,#activity-title:after,#activity-content:after,#cd:after,#whoami:after,#cat:after,#tree:after{visibility:var(--cursor-visibility);content:"|";overflow:hidden;color:#fff;animation:blink 500ms linear infinite alternate}@keyframes blink{0%{opacity:0}100%{opacity:1}}@media only screen and (min-width:768px){body{font-size:2vmin;line-height:2vmin}#content{min-width:60vmin}}:root{--cursor-visibility:hidden}body{align-items:unset;overflow-y:scroll}#content{max-width:80vmin}pre{overflow-x:scroll;white-space:pre}@keyframes blink{0%{opacity:0}100%{opacity:1}}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+        
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+
+
+body{background:#1E282C}body #terminal{color:#657B83}body #user{color:#C3E88D}body #dir{color:#80CBC3}body .Typewriter__cursor{color:#657B83}a{color:#657B83}
+
+
+.navFull {
+    background-color: #353535;
+    font-family: "Arial";
+    font-size: 12px;
+    display: inline;
+    position: fixed;
+    bottom: 0px;
+    left: 0px;
+    width: 60%;
+    padding-top: 3px;
+    padding: 3px;
+    padding-bottom: 3px;
+}
+
+.navCredits {
+    float: right;
+    padding-right: 18px;
+    padding-bottom: 10px;
+    padding-top: 5px;
+}
+
+#content::after {
+    content: "\a\a";
+    white-space: pre;
+}
+
+
+</style>
+
+</head><body><div id="content">
+<h2>  </h2>
+<span id='terminal'>
+    
+    
+    
+</span>
+    <span id="activity-title"></span> <br>
+<span id="activity-content"></span> <br>
+
+<script type="text/javascript">
+    async function typewriter(text, elementId, waitAfter) {
+        var n = 0,
+            isTag = false
+        addText = "";
+        const el = document.getElementById(elementId);
+
+        const wait = () => new Promise(r => setTimeout(r, waitAfter));
+        const nowait = () => new Promise(r => r());
+
+        const render = () => el.innerHTML = (text.slice(0, n + 1) + addText);
+
+        const cursor = document.createElement('span');
+        cursor.id = "blink";
+
+        el.style.setProperty("--cursor-visibility", "visible");
+        while (n < text.length) {
+            if (text.charAt(n + 1) === "<") isTag = true;
+            if (text.charAt(n + 1) === ">") isTag = false;
+
+            if (isTag) {
+                n++;
+                continue;
+            }
+
+            requestAnimationFrame(render);
+
+            if (waitAfter === 0) {
+                await nowait();
+            } else {
+                await wait();
+            }
+
+            n++;
+        }
+        el.style.setProperty("--cursor-visibility", "collapse");
+    }
+
+    function parseDelay(d) {
+        const parsed = parseInt(d, 10);
+        if (isNaN(parsed)) return 0;
+        return parsed;
+    }
+
+    const titleDelay = parseDelay("0"),
+        contentDelay = parseDelay("0");
+    const typeeffetct = async () => {
+        await typewriter("\u003cB\u003e\u003cbig id=\u0027dir\u0027\u003eEnter Ghost\u003c\/big\u003e\u003c\/B\u003e", "activity-title", titleDelay);
+        await typewriter("\u003cspan id=\u0027terminal\u0027\u003e\u003cp\u003evoice, trumpet, bass clarinet, trombone - 6 minutes\u003c\/p\u003e\n\u003cp\u003ecompleted summer 2021\u003c\/p\u003e\n\u003ch4 id=\u0022hahahugoshortcode-s0-hbhb\u0022\u003e\n\u003cspan id=\u0027dir\u0027\u003etext\u003c\/span\u003e\n\u003c\/h4\u003e\n\u003cp\u003e-Enter Ghost- (trombone)\u003cbr\u003e\nMarcellus: \u0026ldquo;Peace, break thee off; look, where it comes again!\u0026rdquo; (trumpet)\u003cbr\u003e\nBernardo: \u0026ldquo;In the same figure, like the king that\u0026rsquo;s dead.\u0026rdquo; (bass clarinet)\u003cbr\u003e\nMarcellus: \u0026ldquo;Thou art a scholar; speak to it *Horatio.\u0026rdquo;\u003cbr\u003e\nBernardo: \u0026ldquo;Looks it not like the king? Mark it *Horatio.\u0026rdquo;\u003cbr\u003e\nHoratio: \u0026ldquo;Most like: it harrows me with fear and wonder.\u0026rdquo; (voice)\u003cbr\u003e\nBernardo: \u0026ldquo;It would be spoke to.\u0026rdquo;\u003cbr\u003e\nMarcellus: \u0026ldquo;Question it *Horatio.\u0026rdquo;\u003cbr\u003e\nHoratio: \u0026ldquo;What art thou? What art thou that usurp\u0026rsquo;st this time of night? Thou that usurp\u0026rsquo;st this time of night together with that fair and war-like form in which the Majesty of buried Denmark did sometime march. By heaven, what art though? By heaven, by heaven I charge thee. I charge thee speak!\u0026rdquo;\u003cbr\u003e\nMarcellus: \u0026ldquo;It is offended.\u0026rdquo;\u003cbr\u003e\nBernardo: \u0026ldquo;See, it stalks away!\u0026rdquo;\u003cbr\u003e\nHoratio: \u0026ldquo;Stay! Speak, speak! I charge thee, speak!\u0026rdquo;\u003cbr\u003e\n-Exit Ghost-\u003c\/p\u003e\n\u003ch4 id=\u0022hahahugoshortcode-s1-hbhb\u0022\u003e\n\u003cspan id=\u0027dir\u0027\u003eprogram notes\u003c\/span\u003e\n\u003c\/h4\u003e\n\u003cblockquote\u003e\n\u003cp\u003e\u003cem\u003eMarcellus\u003c\/em\u003e: \u0026ldquo;What, ha\u0026rsquo;s this thing appear\u0026rsquo;d againe tonight?\u0026rdquo; Then: \u003cem\u003eEnter the Ghost, Exit the Ghost, Enter the Ghost, as before\u003c\/em\u003e. A question of repetition: a spectre is always a \u003cem\u003erevenant\u003c\/em\u003e. One cannot control its comings and goings because it \u003cem\u003ebegins by coming back\u003c\/em\u003e. [\u0026hellip;] What seems almost impossible is to speak always \u003cem\u003eof the\u003c\/em\u003e specter, to speak \u003cem\u003eto the\u003c\/em\u003e the specter, to speak with it, therefore especially \u003cem\u003eto make or to let a spirit speak\u003c\/em\u003e. And the thing seems even more difficult for a reader, an expert, a professor, an interpreter, in short, for what Marcellus calls a \u0026ldquo;scholar.\u0026rdquo; (Derrida, Specters of Marx)\u003c\/p\u003e\n\u003c\/blockquote\u003e\n\u003cp\u003eOriginally composed for loadbang, \n\u003cspan id=\u0027user\u0027\u003eEnter Ghost\u003c\/span\u003e\n sets an adapted scene from the first act of Hamlet. The performers are cast as the four roles: voice as Horatio, trumpet as Marcellus, bass clarinet as Bernardo, and trombone as the ghost. The \u0026lsquo;music\u0026rsquo; is an extension of the theatrical elements of the text, an extension of physical aspects of acting such as blocking.\u003c\/p\u003e\n\u003ch4 id=\u0022hahahugoshortcode-s3-hbhb\u0022\u003e\n\u003cspan id=\u0027dir\u0027\u003epremiere\u003c\/span\u003e\n\u003c\/h4\u003e\n\n\u003cdiv style=\u0022position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;\u0022\u003e\n  \u003ciframe src=\u0022https:\/\/player.vimeo.com\/video\/685992266\u0022 style=\u0022position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;\u0022 title=\u0022vimeo video\u0022 webkitallowfullscreen mozallowfullscreen allowfullscreen\u003e\u003c\/iframe\u003e\n\u003c\/div\u003e\n\n\u003cblockquote\u003e\n\u003cp\u003e\u003cem\u003eloadbang(Jeffery Gavett, Andy Kozar, Adrian Sandi, William Lang)\u003c\/em\u003e\u003c\/p\u003e\n\u003c\/blockquote\u003e\n\u003c\/span\u003e", "activity-content", contentDelay);
+        return;
+    }
+
+    typeeffetct()
+</script>
+
+
+        </div>
+        
+        
+        
+         
+    </body>
+</html>

@@ -1,0 +1,49 @@
+baseURL = 'http://newer.systems/'
+languageCode = 'en-us'
+title = 'Newer Systems'
+theme = 'hugo-theme-shell'
+
+
+[Params]
+  description = "Tucker Johnson"
+  [Params.Terminal]
+  scheme = "Material"
+  userName = "visitor"
+  pcName = "newer.systems"
+  workDir = "home"
+  profile = "bios/short\\ bio.txt"
+
+  ps1Delay = 0 # prompt speed : [userName]@[pcName]:~/$ , [userName]@[pcName]:~/[workDir]$
+  stdoutDelay = 0 # stdout speed : [description] , files in Params.Tree
+  commandDelay = 20 # command speed : cd [workDir] , cat [profile] , tree ./[folderName]/
+
+
+  titleDelay = 0 # title speed : "title" in front matter
+  contentDelay = 0 # content speed : content in .md file
+
+
+  description = """
+  Currently based in Rochester, New York, Tucker Johnson's
+  musical practice includes works for soloists, ensembles,
+  and electronic media. He seeks to draw connections
+  between philosophy, mathematics, and design through his
+  work. These ideas are often synthesized through a blend
+  of experimentation and highly organized systems.
+  Experiences reading, hiking, and amateur botanizing can
+  be found intertwined in his work, alongside interests in
+  visual art, open-source software, and teaching.
+  """
+
+  # Note: If you want to use a Markdown file, you can use the following
+  # description = "/description.md"
+  # Note: and put the description.md in /content/description.md
+
+  [Params.Tree]
+  use = true
+  folderName = "content"
+  files = [
+    ["works", "/list_of_works.md"],
+    ["about", "/about.md"],
+    ["contact", "/contact.md"],
+    ["github", "/github.md"]
+  ]
