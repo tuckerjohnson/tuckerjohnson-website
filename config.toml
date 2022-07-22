@@ -41,9 +41,9 @@ theme = 'hugo-theme-shell'
   files = [
     ["works", "/list_of_works.md"],
     ["about", "/about.md"],
-    ["projects", "/projects.md"],
-    ["collaborative work", "/collaborations,md"],
-    ["gallery", "/gallery.md"],
+    #["projects", "/projects.md"],
+    #["collaborative work", "/collaborations,md"],
+    #["gallery", "/gallery.md"],
     ["purchase", "/purchase.md"],
     ["contact", "/contact.md"]
   ]
