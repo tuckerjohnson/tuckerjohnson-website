@@ -1,7 +1,7 @@
 ---
 title: "...for the discernment of vocations with..."
 description: "tabla, percussion quartet - 8 minutes"
-date: 2018-07-5
+date: 2018-07-05
 year_mark: '2018'
 series: chamber
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Falling Paths, Coloring Grounds"
 description: "cello, computer - 10 minutes"
-date: 2020-11-4
+date: 2020-11-04
 year_mark: '2020'
 series: withcomp
 ---

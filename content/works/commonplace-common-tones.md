@@ -1,7 +1,7 @@
 ---
 title: "Commonplace Common Tones"
 description: "sinfonietta - 6 minutes"
-date: 2021-10-11
+date: 2021-01-11
 year_mark: '2021'
 series: largeensemble
 ---

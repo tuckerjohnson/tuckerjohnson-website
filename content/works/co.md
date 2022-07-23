@@ -16,3 +16,7 @@ completed Winter 2019
 #### {{< yelr words="score video" >}}
 {{< vimeo 667513405 >}}
 > *Doug O'Connor, alto saxophone - Eunmi Ko, piano*
+
+#### {{< yelr words="premiere performance" >}}
+{{< vimeo 732743921 >}}
+> *Changhoon Lee, alto saxophone - Jieun Shin, piano*

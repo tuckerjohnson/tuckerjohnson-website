@@ -1,7 +1,7 @@
 ---
 title: "Twenty-One Inventions"
 description: "piano - 22 minutes"
-date: 2021-08-20
+date: 2022-08-21
 year_mark: '2022'
 series: solo
 ---

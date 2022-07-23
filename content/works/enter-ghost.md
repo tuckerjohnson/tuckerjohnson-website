@@ -1,9 +1,9 @@
 ---
 title: "Enter Ghost"
 description: "voice, trumpet, bass clarinet, trombone - 6 minutes"
+date: 2021-05-11
 series: chamber
 year_mark: '2021'
-date: 2021-05-11
 ---
 
 {{< violr words="voice, trumpet, bass clarinet, trombone - 6 minutes" >}}

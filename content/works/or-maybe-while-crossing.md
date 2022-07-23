@@ -1,6 +1,6 @@
 ---
 title: "Or Maybe While Crossing"
-description: "fl, a sx, vln, vcl, perc - 7 minutes"
+description: "fl, asx, vn, vc, perc - 7 minutes"
 date: 2019-10-13
 year_mark: '2019'
 series: chamber
@@ -16,3 +16,7 @@ environment, whose details were blurred by vastness, made my ‘perception’ pe
 smallness is the prevailing mode of existence.
 
 commissioned by CORVUS as part of Composing in the Wilderness
+
+#### {{< yelr words="premiere" >}}
+{{< vimeo 732743947 >}}
+> *Charly Akert, cello - Joseph Bergen, percussion - Katie Cox, flute - Alex LoRe, saxophone - Andie Tanning, violin*
