@@ -24,16 +24,12 @@ theme = 'hugo-theme-shell'
 
   description = """### Tucker Johnson, short bio
 
-  Currently based in Rochester, New York, Tucker Johnson’s
-  musical practice includes works for soloists, ensembles,
-  and electronic media. He seeks to draw connections
-  between philosophy, mathematics, and design through his
-  work. These ideas are often synthesized through a blend
-  of experimentation and highly organized systems.
-  Experiences reading, hiking, and amateur botanizing can
-  be found intertwined in his work, alongside interests in
+  Based in Rochester, New York, Tucker Johnson composes
+  works for soloists, ensembles, and electronic media.
+  Experiences reading, hiking, and amateur botanizing
+  can be found intertwined in his work, alongside
 
-  open-source software and teaching."""
+  interests in open-source software and teaching."""
 
   [Params.Tree]
   use = true
@@ -44,6 +40,6 @@ theme = 'hugo-theme-shell'
     #["projects", "/projects.md"],
     #["collaborative work", "/collaborations,md"],
     #["gallery", "/gallery.md"],
-    ["purchase", "/purchase.md"],
+    ["Umbel Press (shop)", "/umbel-press.md"],
     ["contact", "/contact.md"]
   ]
