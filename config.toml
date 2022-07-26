@@ -1,7 +1,7 @@
 baseURL = 'http://newer.systems/'
 languageCode = 'en-us'
 title = 'Newer Systems'
-theme = 'hugo-theme-shell'
+theme = 'shelltheme'
 
 
 [Params]
