@@ -1,6 +1,5 @@
 ---
 ---
-
 ### full bio
 
 Currently based in Rochester, New York, {{< greener words="Tucker Johnson's" >}} musical practice includes works for soloists, ensembles, and electronic media.

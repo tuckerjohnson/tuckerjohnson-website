@@ -38,7 +38,7 @@ theme = 'shelltheme'
     ["works", "/list_of_works.md"],
     ["about", "/about.md"],
     #["projects", "/projects.md"],
-    #["collaborative work", "/collaborations,md"],
+    #["collaborative work", "/collaborations.md"],
     #["gallery", "/gallery.md"],
     ["Umbel Press (shop)", "/umbel-press.md"],
     ["contact", "/contact.md"]
