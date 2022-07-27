@@ -16,3 +16,5 @@ title: "contact"
 consider supporting my work through donation
 #### └── paypal & venmo
 &nbsp;&nbsp;&nbsp;&nbsp;└── {{< greener words="tucker@newer.systems" >}}
+#### └── monero
+&nbsp;&nbsp;&nbsp;&nbsp;└── {{< lilviolr words="4AuF5x6vHc5CnsdBTW4wqPCTmstW2ua3DEyWhQG8AwvvJsJmKtv86NEPkfzsDkE5CMGbCNeXTzfFgjmi3znz8Nj55uVkk8u" >}}
