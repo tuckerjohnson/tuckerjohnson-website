@@ -11,5 +11,8 @@ title: "contact"
 #### └── address
 &nbsp;&nbsp;&nbsp;&nbsp;└── {{< violr words="169 spring tree lane" >}}\
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;{{< violr words="Rochester, NY 14612" >}}
-#### └── donation
-&nbsp;&nbsp;&nbsp;Consider supporting my work through donation. 
+***
+### {{< bluer words="donation" >}}
+consider supporting my work through donation
+#### └── paypal & venmo
+&nbsp;&nbsp;&nbsp;&nbsp;└── {{< greener words="tucker@newer.systems" >}}
