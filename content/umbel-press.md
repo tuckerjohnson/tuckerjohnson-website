@@ -1,8 +1,10 @@
 ---
 title: "Umbel Press"
 ---
-Umbel Press is the publishing imprint of composer Tucker Johnson.
 
+{{< invisblr words=". . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . ." >}}
+
+Umbel Press is the publishing imprint of composer Tucker Johnson.
 #### └── purchase scores
 &nbsp;&nbsp;&nbsp;&nbsp;payments accepted through {{< yelr words="paypal," >}} {{< yelr words="venmo," >}} and {{< yelr words="monero" >}}
 

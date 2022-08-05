@@ -10,8 +10,8 @@ theme = 'shelltheme'
   scheme = "SolarizedDark"
   userName = "TuckerJ"
   pcName = "newer.systems"
-  workDir = "home"
-  profile = "bios/short\\ bio.txt"
+  workDir = "website"
+  profile = "bios/very_short\\ bio.txt"
 
   ps1Delay = 0 # prompt speed : [userName]@[pcName]:~/$ , [userName]@[pcName]:~/[workDir]$
   stdoutDelay = 0 # stdout speed : [description] , files in Params.Tree
@@ -24,12 +24,11 @@ theme = 'shelltheme'
 
   description = """### Tucker Johnson, short bio
 
-  Based in Rochester, New York, Tucker Johnson composes
-  works for soloists, ensembles, and electronic media.
-  Experiences reading, hiking, and amateur botanizing
-  can be found intertwined in his work, alongside
+  Based in Rochester, New York, Tucker Johnson composes works for
+  soloists, ensembles, and electronic media. Experiences reading,
+  hiking, and amateur botanizing can be found intertwined in his
 
-  interests in open-source software and teaching."""
+  work, alongside interests in open-source software and teaching."""
 
   [Params.Tree]
   use = true
@@ -39,7 +38,7 @@ theme = 'shelltheme'
     ["about", "/about.md"],
     #["projects", "/projects.md"],
     #["collaborative work", "/collaborations.md"],
-    #["gallery", "/gallery.md"],
+    ["gallery", "/gallery.md"],
     ["Umbel Press (shop)", "/umbel-press.md"],
     ["contact", "/contact.md"]
   ]

@@ -20,7 +20,7 @@ body {
   align-items: center; }
 
 #content {
-  min-width: 82vmin;
+  min-width: 80vmin;
   min-height: 82vmin; }
 
 ::-webkit-scrollbar {
@@ -52,4 +52,4 @@ body {
     font-size: 2vmin;
     line-height: 2vmin; }
   #content {
-    min-width: 60vmin; } }
+    min-width: 90vmin; } }

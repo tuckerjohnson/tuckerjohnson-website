@@ -1,4 +1,5 @@
 ---
+title: "about"
 ---
 ### full bio
 
@@ -29,3 +30,8 @@ Tucker received the BM in music composition from the Pennsylvania State Universi
 He previously studied with Susanna Hancock and Paul Reller at the University of South Florida.
 Tucker is pursuing the MA in music composition at the Eastman School of Music, where he serves as a teaching assistant for the Eastman Audio Research Studio.
 There he studies with Robert Morris, David Liptak, and Matt Barber.
+
+---
+|[{{< violr words="headshot.jpg" >}}](/img/headshot.jpg) |
+|[{{< yelr words="bios.pdf" >}}](/bios.pdf) |
+|[{{< yelr words="resume.pdf" >}}](/resume.pdf)|
