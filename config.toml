@@ -12,6 +12,7 @@ theme = 'shelltheme'
   pcName = "newer.systems"
   workDir = "website"
   profile = "bios/very_short\\ bio.txt"
+  profile2 = "news/upcomming\\ events.txt"
 
   ps1Delay = 0 # prompt speed : [userName]@[pcName]:~/$ , [userName]@[pcName]:~/[workDir]$
   stdoutDelay = 0 # stdout speed : [description] , files in Params.Tree
@@ -30,6 +31,14 @@ theme = 'shelltheme'
 
   work, alongside interests in open-source software and teaching."""
 
+  description2 = """### upcoming events
+
+  09-09-22 FIFTEEN INVENTIONS - Eastman School of Music
+
+  """
+
+
+
   [Params.Tree]
   use = true
   folderName = "content"
@@ -37,7 +46,7 @@ theme = 'shelltheme'
     ["works", "/list_of_works.md"],
     ["about", "/about.md"],
     #["projects", "/projects.md"],
-    #["collaborative work", "/collaborations.md"],
+    ["collaborative work", "/collabs.md"],
     ["gallery", "/gallery.md"],
     ["Umbel Press (shop)", "/umbel-press.md"],
     ["contact", "/contact.md"]
