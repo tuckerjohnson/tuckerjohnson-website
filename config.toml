@@ -11,7 +11,7 @@ theme = 'shelltheme'
   userName = "TuckerJ"
   pcName = "newer.systems"
   workDir = "website"
-  profile = "bios/very_short\\ bio.txt"
+  profile = "bios/very\\ short\\ bio.txt"
   profile2 = "news/upcomming\\ events.txt"
 
   ps1Delay = 0 # prompt speed : [userName]@[pcName]:~/$ , [userName]@[pcName]:~/[workDir]$
@@ -29,14 +29,18 @@ theme = 'shelltheme'
   soloists, ensembles, and electronic media. Experiences reading,
   hiking, and amateur botanizing can be found intertwined in his
 
-  work, alongside interests in open-source software and teaching."""
+  work, alongside a passion for open-source software and teaching."""
 
   description2 = """### upcoming events
 
-  09-19-22 FIFTEEN INVENTIONS - Eastman School of Music
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Xingyi Chen, piano]
-  09-28-22 ELECTROACOUSTIC IMPROVISATION - Eastman School of Music
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Floris Van der Veken, saxophone - Tucker Johnson, laptops]
+  11/10/22 - Ossia New Music: FLUXUS 2 - Ray Wright Room, Rochester NY, 8:30pm
+  ---------->[installation with Zoe Markle, Bass]
+
+  11/14/22 - Eastman Audio Research Studio: More Instruments - Hatch Recital Hall, Rochester NY, 7:30pm
+  ---------->[I AM COVERED IN STARCH for stereo playback]
+
+  11/17/22 - Composers' Concert II - Hatch Recital Hall, Rochester NY, 7:30pm
+  ---------->[Selections from "Fifteen Keyboard Inventions" performed by Zihan Wu]
 
   """
 

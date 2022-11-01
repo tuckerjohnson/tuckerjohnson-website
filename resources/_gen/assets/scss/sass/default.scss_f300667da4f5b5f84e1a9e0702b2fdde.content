@@ -4,8 +4,8 @@
 
 html,
 body {
-  width: 100%;
-  height: 100%;
+  width: 99.5%;
+  height: 99.5%;
   overflow: auto;
   font-family: "Inconsolata", monospace;
   font-size: 3vmin;
@@ -13,15 +13,15 @@ body {
   font-weight: normal; }
 
 body {
-  margin: 0;
+  margin: 0.5;
   display: flex;
   flex-direction: row;
-  justify-content: center;
-  align-items: center; }
+  justify-content: Left;
+  align-items: bottom; }
 
 #content {
-  min-width: 80vmin;
-  min-height: 82vmin; }
+  min-width: 500vmin;
+  min-height: 100vmin; }
 
 ::-webkit-scrollbar {
   width: 10px; }

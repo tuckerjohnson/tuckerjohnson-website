@@ -1,5 +1,5 @@
 ---
-title: "Fifteen Inventions"
+title: "Fifteen Keyboard Inventions"
 description: "piano - 20 minutes"
 date: 2022-08-21
 year_mark: '2022'
@@ -11,6 +11,15 @@ series: solo
 in progress
 
 #### {{< yelr words="program notes" >}}
-{{< greener words="Twenty-One Inventions" >}} is a modular, multi-movement work for piano. The inventions are organized into seven, three-movement groups called sequences. These sequences can be played in any combination. I constructed each of the short inventions from one to seven contrapuntal strands. Inventions which share the same number of these strands are composed out in a similar fashion, and thus share a title.
+{{< greener words="Fifteen Keyboard Inventions" >}}
+At the start of 2022, I composed a short piece for piano constructed from descending
+diatonic scales and the 15 partitions of the integer 7. This invention
+would inspire me to write 14 more inventions. These {{< greener words="Fifteen Inventions" >}}
+correspond to one of the 15 partitions and, as such, have between 1 and 7 strands or
+voices. Inventions with the same number of strands or voices share titles and musical
+characters. I borrowed terms from plant morphology I felt describe these musical
+characters for the titles. Pappus is the fluffy hair-like material which carries
+seeds through the air, Panicle is an inflorescence with many branches thrusting out
+in different directions, and Pinnate describes a two-rowed leaflet structure.
 
-{{< greener words="Fifteen Inventions" >}} will receive it's premeire in Fall 2022.
+{{< greener words="Fifteen Keyboard Inventions Inventions" >}} will receive it's premeire in Fall 2022.
