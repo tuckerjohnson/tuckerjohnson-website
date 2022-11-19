@@ -32,6 +32,9 @@ Tucker is pursuing the MA in music composition at the Eastman School of Music, w
 There he studies with Robert Morris, David Liptak, and Matt Barber.
 
 ---
-|[{{< violr words="headshot.jpg" >}}](/img/headshot.jpg) |
-|[{{< yelr words="bios.pdf" >}}](/bios.pdf) |
-|[{{< yelr words="resume.pdf" >}}](/resume.pdf)|
+| [{{< violr words="headshot.jpg" >}}](/img/headshot.jpg)                      |
+| [{{< yelr words="bios.pdf" >}}](/bios.pdf)                                   |
+| [{{< yelr words="resume.pdf" >}}](/resume.pdf)                               |
+| [{{< yelr words="cv.pdf" >}}](/cv.pdf)                                       |
+| [{{< yelr words="list of works.pdf" >}}](/listofworks.pdf)                   |
+| [{{< yelr words="list of performances.pdf" >}}](/listofperformances.pdf)     |
